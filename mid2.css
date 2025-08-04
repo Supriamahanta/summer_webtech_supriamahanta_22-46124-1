@@ -1,0 +1,7 @@
+#myImage {
+            display: none;
+            width: 600px;
+            height: 400px;
+            outline: 5px solid rgb(81, 2, 58);
+            outline-offset: 0px;
+        }
